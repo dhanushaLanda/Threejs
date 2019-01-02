@@ -1,0 +1,19 @@
+.board{
+    display: flex;
+    height: 20vh;
+    width: 15vw;
+    border : solid black 1px;
+    position: absolute;
+    flex-wrap: wrap;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.cell{
+    margin:1px;
+    flex: 0 0 30%;
+    width: 5vw;
+    height: 6vh;
+    border: solid black 1px;
+
+}

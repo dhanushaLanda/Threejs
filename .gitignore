@@ -1,0 +1,26 @@
+npm-debug.log
+.vs
+bin
+styleguide
+.history
+yarn-error.log
+eDesignUI.iml
+.vscode
+.DS_Store
+dist
+
+# Dependency directories
+node_modules
+
+# TypeScript v1 declaration files
+typings
+
+#Intellij
+.idea/
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# nyc test coverage
+.nyc_output
+
